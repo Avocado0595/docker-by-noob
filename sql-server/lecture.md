@@ -1,3 +1,4 @@
+(bài viết mang tính chất thử nghiệm và học hỏi, mọi người tham khảo và thoải mái đóng góp ý kiến nhé) =)))
 ### HƯỚNG DẪN CÀI ĐẶT SQL SERVER TRÊN DOCKER
 1. Tải docker: https://www.docker.com/get-started (tải bản desktop để dùng trên máy nhé)
 ![docker](/sql-server/Docker.png)
